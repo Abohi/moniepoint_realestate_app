@@ -88,12 +88,3 @@ PlaceWidget(
 fvm flutter pub get  # Install dependencies
 fvm flutter run      # Launch the app
 ```  
-
----
-
-## 🌟 Why This Stands Out
-- **Fluid Animations**: Leverages `flutter_animate` and custom painters.
-- **Performance**: Optimized with `AnimationController` disposals.
-- **Modular**: Reusable components like `AnimatedCounterWidget`.
-
----
