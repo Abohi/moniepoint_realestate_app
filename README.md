@@ -29,7 +29,7 @@ RoundOptionWidget(
   backgroundColor: Colors.blue,
 )
 ```
-<div> <img src="screenshots/bottom_bar_screenshot.png" width="300" height="700" alt="Bottom Bar Animation" style="border-radius:8px;border:1px solid #eee;margin-top:12px;"> </div>
+<div> <img src="screenshots/bottom_bar_screenshot.png" width="300" alt="Bottom Bar Animation" style="border-radius:8px;border:1px solid #eee;margin-top:12px;"> </div>
 
 ---
 
