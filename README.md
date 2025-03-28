@@ -58,6 +58,11 @@ PlaceWidget(
 ```
 <div> <img src="screenshots/place_screenshot.png" width="300" height="700" alt="Property Card" style="border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);margin-top:12px;"> </div>
 
+---
+
+### 4. **Search Page**
+
+<div> <img src="screenshots/search_estate.png" width="300" height="700" alt="Property Card" style="border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);margin-top:12px;"> </div>
 
 ---
 
