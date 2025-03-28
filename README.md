@@ -12,7 +12,7 @@
 ---
 
 ## 🎥 Showcase
-![Demo Video](video_recording/estate_record.mp4)
+![Demo Video](estate_gif/estate.gif)
 
 ---
 
