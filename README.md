@@ -29,7 +29,7 @@ RoundOptionWidget(
   backgroundColor: Colors.blue,
 )
 ```
-![Bottom Bar Animation](screenshots/bottom_bar_screenshot.png)
+<div> <img src="screenshots/bottom_bar_screenshot.png" width="300" height="700" alt="Bottom Bar Animation" style="border-radius:8px;border:1px solid #eee;margin-top:12px;"> </div>
 
 ---
 
@@ -55,7 +55,8 @@ PlaceWidget(
   isFullView: false,
 )
 ```
-![Places_Card](screenshots/place_screenshot.png)
+<div> <img src="screenshots/place_screenshot.png" width="300" height="700" alt="Property Card" style="border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);margin-top:12px;"> </div>
+
 
 ---
 
